@@ -1,3 +1,4 @@
+[![Gensokyo Kenken's GitHub stats](https://github-readme-stats.vercel.app/api?username=gensokyo-kenken)](https://github.com/anuraghazra/github-readme-stats)
 - Hi, I’m Gensokyo Kenken.
 - I’m interested in Touhou Project(I don't want to hear it)
 - I’m currently learning javaScript and PHP
